@@ -5917,15 +5917,15 @@
     </location>
     <email type="group"></email>
     <tsar>
-      <name>Nobutaka Wakabayashi</name>
+      <name>Tomokazu Mishima</name>
       <email type="personal">
         <user>nqounet</user>
         <domain>cpan.org</domain>
       </email>
     </tsar>
     <web>http://kansai.pm.org/</web>
-    <facebook>https://www.facebook.com/kansaipm/</facebook>
     <github>https://github.com/kansai-pm</github>
+    <twitter>https://twitter.com/kansaipm</twitter>
     <date type="inception">20000227</date>
   </group>
   <group id="272" status="undef">
